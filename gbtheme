@@ -1,0 +1,47 @@
+<map>
+<boolean name="Hide_div" value="false"/>
+<boolean name="NameProf" value="false"/>
+<boolean name="yo_hideinfo" value="false"/>
+<boolean name="custom_wall" value="false"/>
+<int name="pic_chat_size_pickerV2" value="40"/>
+<string name="tick_style">yousef</string>
+<string name="pic_startlocation">1</string>
+<boolean name="my_name" value="true"/>
+<boolean name="isSwipeEnabled" value="false"/>
+<string name="ui_home_styleV2">0</string>
+<boolean name="chats_show_contact_online_toast_check" value="false"/>
+<boolean name="my_statusd" value="false"/>
+<boolean name="onlinechat" value="false"/>
+<boolean name="enable_grp_separation" value="false"/>
+<boolean name="PicProf" value="false"/>
+<boolean name="log_show_name_check" value="true"/>
+<boolean name="group_mypicV2" value="false"/>
+<boolean name="Hide_contact_picker_section_recent_chats" value="false"/>
+<int name="text_size_pick" value="16"/>
+<boolean name="yo_want_nightmode" value="false"/>
+<boolean name="Hide_contact_picker_section_frequent_chats" value="false"/>
+<boolean name="disable_hiddenchat_access" value="false"/>
+<boolean name="Conv_call_btn" value="false"/>
+<string name="bubble_style">0</string>
+<int name="main_text" value="17"/>
+<int name="ModOnlineColor" value="-13893888"/>
+<boolean name="statuschat" value="false"/>
+<int name="square_photo_ratio_picker" value="100"/>
+<boolean name="Audio_ears" value="false"/>
+<boolean name="chat_contactpicV2" value="false"/>
+<boolean name="pic_inside" value="false"/>
+<boolean name="ModOnlineColor_Gactive" value="false"/>
+<boolean name="group_participants_picV2" value="false"/>
+<boolean name="rvkdmsg_icon_color_Gactive" value="false"/>
+<boolean name="TxtSelect" value="true"/>
+<boolean name="custom_wall_profilepic" value="false"/>
+<boolean name="chat_mypicV2" value="false"/>
+<boolean name="Hide_contact_picker_section_other_contacts" value="false"/>
+<boolean name="yo_want_airplanemode" value="false"/>
+<int name="rvkdmsg_icon_color" value="-65536"/>
+<string name="HomeEntry">yousef</string>
+<boolean name="elapsed_time" value="true"/>
+<boolean name="enable_ig_stories" value="false"/>
+<boolean name="AttBt" value="false"/>
+<boolean name="Audio_sensor" value="true"/>
+</map>
